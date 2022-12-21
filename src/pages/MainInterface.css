@@ -1,0 +1,9 @@
+.nav-link {
+    text-decoration: none;
+    color: rgb(17, 17, 17);
+}
+
+.nav-link .mail-icon {
+    text-decoration: none;
+    color: var(--ion-color-light);
+}
